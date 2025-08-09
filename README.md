@@ -1,0 +1,3 @@
+# haytam13011988/sanity_maven_rest_assured_pr_partial_default-1754718485
+
+Frogbot security scanning repository
